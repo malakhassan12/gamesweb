@@ -477,6 +477,7 @@ body{
     text-transform: capitalize;
     z-index: -1;
     position: relative;
+    
 }
 .features section .part2::before{
 
@@ -509,6 +510,7 @@ body{
     border-bottom-right-radius: 177px;
     border-bottom-left-radius: 140px;
     border-bottom: 10px solid #d92948;
+    left: 5px;
 }
 .features section .part3::before{
     content: "";
@@ -522,6 +524,7 @@ body{
     border-bottom-right-radius: 84px;
     border-bottom-left-radius: 208px;
     border-bottom: 6px solid #d92948;
+    left: -10px;
 }
 
 
